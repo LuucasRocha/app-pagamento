@@ -1,0 +1,20 @@
+{
+    "recebedores": [
+        {
+            "id": 1,
+            "nome": "João Silva",
+            "banco": "Banco do Brasil",
+            "agencia": "1234",
+            "conta": "56789-0",
+            "tipo_conta": "corrente"
+        },
+        {
+            "id": 2,
+            "nome": "Maria Oliveira",
+            "banco": "Caixa Econômica Federal",
+            "agencia": "4321",
+            "conta": "09876-5",
+            "tipo_conta": "poupança"
+        }
+    ]
+}
