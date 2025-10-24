@@ -1,3 +1,3 @@
 from queue import Queue
 
-filaConfirmacao = Queue()
+filaConfirmação = Queue()
