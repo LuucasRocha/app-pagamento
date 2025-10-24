@@ -61,3 +61,5 @@ test_confirmarPagamento_success()
 test_confirmarPagamento_fail()
 test_submeterPagamento_success()
 test_submeterPagamento_multiple()
+
+print("Todos os testes passaram com sucesso!")
